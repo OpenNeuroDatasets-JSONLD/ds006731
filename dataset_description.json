@@ -1,7 +1,7 @@
 {
     "Name": "Resting state and task based functional connectivity reveal distinct mPFC and hippocampal network alterations in major depressive disorder.",
     "BIDSVersion": "1.2.1",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Ekaete Ekpo, Lysianne Beynel, Bruce Luber, Zhi-De Deng, Timothy J. Strauman, and Sarah H. Lisanby"
     ],
@@ -13,5 +13,5 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds006731.v1.0.0"
 }
